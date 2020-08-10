@@ -128,4 +128,12 @@ Its necessary setup our nodejs project for run on https protocol, you can do it 
     }
 
 ## You can follow this tutorial on: 
-[https://www.ideas2code.io/setup-node-https-certificate.html](https://www.ideas2code.io/setup-node-https-certificate.html)
+![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/08/portada-1-590x295.jpg)
+https://www.ideas2code.io/setup-node-https-certificate.html
+
+## Recommendations
+![enterssasd image description here](https://www.ideas2code.io/wp-content/uploads/2020/08/aws2-590x295.jpg)
+[https://www.ideas2code.io/https-website-verifed-with-aws.html](https://www.ideas2code.io/https-website-verifed-with-aws.html)
+
+![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/08/create-https-certificate-openssl.fw_-590x295.png)
+[https://www.ideas2code.io/create-self-signed-certificate-openssl.html](https://www.ideas2code.io/create-self-signed-certificate-openssl.html)
