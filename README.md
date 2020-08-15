@@ -133,7 +133,8 @@ Its necessary setup our nodejs project for run on https protocol, you can do it 
 https://www.ideas2code.io/setup-node-https-certificate.html
 
 ## Recommendations
-![enterssasd image description here](https://www.ideas2code.io/wp-content/uploads/2020/08/aws2-590x295.jpg)
+
+[![enterssasd image description here](https://www.ideas2code.io/wp-content/uploads/2020/08/aws2-590x295.jpg)](https://www.ideas2code.io/https-website-verifed-with-aws.html)
 
 [https://www.ideas2code.io/https-website-verifed-with-aws.html](https://www.ideas2code.io/https-website-verifed-with-aws.html)
 
