@@ -1,11 +1,9 @@
 # Welcome to Https demo with nodejs & expressjs!
-![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/08/portada-1-590x295.jpg)
+![enter image description here](https://user-images.githubusercontent.com/9513390/129836936-7f47b30b-8fe5-4445-9cc1-7109af3cba12.jpg)
 
 Its necessary setup our nodejs project for run on https protocol, you can do it follow next steps.
 
-## Sponsor
 
-[![enter image description here](https://www.ideas2code.io/wp-content/uploads/2020/10/bar.fw_.png)](http://adf.ly/23757721/www.ideas2code.io)
 
 ## Objetive:
 
